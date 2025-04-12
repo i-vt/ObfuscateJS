@@ -22,9 +22,15 @@ python3 AddRandomComments.py --file 4.js > 5.js;
 python3 AddRandomDeclarations.py --file 5.js --count 1500 > 6.js;
 python3 AddDeadCode.py --file 6.js --caves 420 > 7.js;
 cp 7.js replacement.js;
-./entropy.sh replacement.js
 python3 make_html.py > obf_test_page.html
 ```
+
+### Optional:
+```
+chmod +x ./entropy.py
+./entropy.sh replacement.js
+```
+
 ### Side-Note: 
 - JsToBase64 is a prerequisite for AtobToChunks
 - AtobToChunks is a prerequisite for AtobChunkVariableSplitter to work
