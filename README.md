@@ -8,7 +8,7 @@ From this:
 
 To this:
 ![image](https://github.com/user-attachments/assets/b28bf6d2-14f9-48f2-b65d-ee6083b21890)
-
+https://github.com/i-vt/ObfuscateJS/blob/main/samples/replacement.js
 
 ## Setup
 Optional, add arbitraty **FUNCTIONAL** JS scripts to `./deadcode` folder, this code will never execute, but it boats the file. 
