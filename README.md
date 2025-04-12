@@ -1,12 +1,12 @@
 # ObfuscateJS
 
-
-From this:
+## Sample 
+### From this:
 ![image](https://github.com/user-attachments/assets/fb5840c8-6c2a-4dd9-9410-1b25ba628617)
 ![image](https://github.com/user-attachments/assets/810837f9-a495-44a2-b147-5b768a7143f6)
 
 
-To this:
+### To this:
 ![image](https://github.com/user-attachments/assets/139e8a07-aab1-42ef-96b4-8742e0922149)
 
 
