@@ -26,3 +26,7 @@ cp 7.js replacement.js;
 ./entropy.sh replacement.js
 python3 make_html.py > 2.html
 ```
+btw: 
+- JsToBase64 is a prerequisite for AtobToChunks
+- AtobToChunks is a prerequisite for AtobChunkVariableSplitter to work
+- AddDeadCode requires to have JS files in `./deadcode`, the more the better
