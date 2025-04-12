@@ -10,9 +10,7 @@ To this:
 ![image](https://github.com/user-attachments/assets/b28bf6d2-14f9-48f2-b65d-ee6083b21890)
 https://github.com/i-vt/ObfuscateJS/blob/main/samples/replacement.js
 
-## Setup
-Optional, add arbitraty **FUNCTIONAL** JS scripts to `./deadcode` folder, this code will never execute, but it boats the file. 
-Mad respect to [paopao2]([url](https://github.com/paopao2/leetcode-js/tree/master)) for his repo of JS leetcode, I have added a few snippets of his code to the folder.
+Mad respect to [paopao2]([url](https://github.com/paopao2/leetcode-js/tree/master)) for his repo of JS leetcode, I have added snippets of homie's code.
 
 ## Usage
 ```
