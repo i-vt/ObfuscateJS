@@ -1,4 +1,18 @@
 # ObfuscateJS
+
+
+From this:
+![image](https://github.com/user-attachments/assets/fb5840c8-6c2a-4dd9-9410-1b25ba628617)
+
+To this:
+![image](https://github.com/user-attachments/assets/b28bf6d2-14f9-48f2-b65d-ee6083b21890)
+
+
+## Setup
+Optional, add arbitraty **FUNCTIONAL** JS scripts to `./deadcode` folder, this code will never execute, but it boats the file. 
+Mad respect to [paopao2]([url](https://github.com/paopao2/leetcode-js/tree/master)) for his repo of JS leetcode, I have added a few snippets of his code to the folder.
+
+## Usage
 ```
 python3 JsToBase64.py --file main_payload.js > 2.js;
 python3 AtobToChunks.py --file 2.js > 3.js;
@@ -10,9 +24,3 @@ cp 7.js replacement.js;
 ./entropy.sh replacement.js
 python3 make_html.py > 2.html
 ```
-
-From this:
-![image](https://github.com/user-attachments/assets/fb5840c8-6c2a-4dd9-9410-1b25ba628617)
-
-To this:
-![image](https://github.com/user-attachments/assets/b28bf6d2-14f9-48f2-b65d-ee6083b21890)
