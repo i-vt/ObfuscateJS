@@ -1,4 +1,5 @@
 # ObfuscateJS
+ObfuscateJS is a multi-step JavaScript obfuscation toolkit designed to transform clean, readable JS into heavily distorted and unreadable code. It uses a layered pipeline of base64 encoding, chunking, random declarations, and injected dead code to maximize entropy and minimize human readability. This project is perfect for those who want to experiment with advanced JS obfuscation techniques or protect their scripts from reverse engineering.
 
 ## Sample 
 ### From this:
