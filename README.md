@@ -7,7 +7,8 @@ From this:
 
 
 To this:
-![image](https://github.com/user-attachments/assets/6f62fdb9-a1e6-43e8-9dfc-fca38ebf0f08)
+![image](https://github.com/user-attachments/assets/139e8a07-aab1-42ef-96b4-8742e0922149)
+
 
 https://github.com/i-vt/ObfuscateJS/blob/main/samples/replacement.js
 
